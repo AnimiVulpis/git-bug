@@ -12,3 +12,7 @@ In this repository the merge commit (`de3de0555fec83496b83d8dc279da0a6e9223d58`)
 Older versions of git don't have this problem.
 
 To see for yourself: Check out the branch `bad-commit` and run `git branch -v`
+
+# Link to issue
+
+https://public-inbox.org/git/CA+izobvwRCwGEtpCbey=gFbCh9sHBb5xB1i1LpMG0JCUy0O2mQ@mail.gmail.com/T/#t
